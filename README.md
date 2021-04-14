@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RingoFloyd
-- 👀 I’m interested in music, football and coding
+- 👀 I’m interested in music, football, reading, running and coding
 - 🌱 I’m currently learning full stack web development and python
 - 💞️ I’m looking to collaborate on any web dev projects
 - 📫 How to reach me eomercy@gmail.com
